@@ -9,5 +9,7 @@
 - create UserSeeder ✅
 - all API Controller methods ✅
 
-
-
+- create ContactController ✅
+- create ContactResource ✅
+- create ContactSeeder ✅
+- all API Controller methods ✅
