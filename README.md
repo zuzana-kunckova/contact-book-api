@@ -13,3 +13,8 @@
 - create ContactResource ✅
 - create ContactSeeder ✅
 - all API Controller methods ✅
+
+- add tests
+
+- create Address model
+- Contacts can have many addresses
